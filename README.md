@@ -1,1 +1,1 @@
-# Python laguaje
+# Python laguage
