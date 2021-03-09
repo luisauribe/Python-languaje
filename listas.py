@@ -1,3 +1,10 @@
+ +---+---+---+---+---+---+
+ | P | y | t | h | o | n |
+ +---+---+---+---+---+---+
+ 0   1   2   3   4   5   6
+-6  -5  -4  -3  -2  -1
+
+
 mi_lista = [17, 39, "Laura", True]
 print(mi_lista)
 
@@ -50,3 +57,4 @@ print(mi_lista + lista_3)
 
 # Multiplica una lista
 print(mi_lista * 3)
+
